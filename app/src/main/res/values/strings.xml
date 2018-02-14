@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Outdoor Walking App</string>
+    <string name="CMSC436_central_spreadsheet">1YvI3CjS4ZlZQDYi5PaiA7WGGcoCsZfLoSFM0IdvdbDU</string>
+    <string name="CMSC436_testing_spreadsheet">1euLcePoOXPEdYkbZGbpf5pE1iJaAL7CgQV07VOWxbxY</string>
+    <string name="CMSC436_private_test_spreadsheet">1EilUeT9KGi2_RGqzVKzzn5sZkDILTJlvjylqhMZ9zCw</string>
+    <string name="CMSC436_imageFolder">0B3B-mQ6gORpBYzNjUC1icGNQOTA</string>
+    <string name="user_id">Tester123abc</string>
+    <string name="image_name">Map Pic</string>
+    <string name="button_text">Send random data to test sheet</string>
+</resources>
